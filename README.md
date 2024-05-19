@@ -1,0 +1,1 @@
+HC3 dataset is from Biyang Guo, Xin Zhang, Ziyuan Wang, Minqi Jiang, Jinran Nie, Yuxuan Ding, Jianwei Yue and Yupeng Wu. "How close is chatgpt to human experts? comparison corpus, evaluation, and detection." arXiv preprint arXiv:2301.07597 (2023).
